@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @memsenpai
 - 👀 I’m can:
-  - 📝 Write code **Ruby on Rails** for You.
-  - 🔧 Fix bug **ReactJS** for You.
+  - **Ruby on Rails**
+  - **ReactJS**
 - 📫 How to reach me: 
   - Linkedin: https://www.linkedin.com/in/dao-hung-aa034b12b/
   - Email: memsenpai3@gmail.com
